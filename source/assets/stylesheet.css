@@ -26,6 +26,12 @@
   font-weight: 200;
 }
 
+.card {
+  border: none;
+}
+.card-image {
+  max-height: 20rem;
+}
 h1 {
   color: white !important;
   margin-bottom: 1.5rem;
@@ -48,7 +54,7 @@ h3 {
 
 h2 {
   font-size: 1.5rem;
-  letter-spacing: 5px;
+  letter-spacing: 9px;
   font-family: 'Raleway';
   font-weight: 400;
 
@@ -63,7 +69,7 @@ h4 {
 
 p {
   font-size: 0.8rem;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   font-family: 'Raleway';
   font-weight: 400;
 }
@@ -109,7 +115,6 @@ a:hover {
 .icon-services i {
   font-size: 1.5rem;
   padding: 1rem;
-  font-weight: 200;
 }
 
 .img_skills {
@@ -119,4 +124,6 @@ a:hover {
 
 .title_skills {
   margin: 1rem;
+  margin-bottom: 0.5rem;
+  margin-top: 3rem;
 }
