@@ -29,9 +29,11 @@
 .card {
   border: none;
 }
+
 .card-image {
   max-height: 20rem;
 }
+
 h1 {
   color: white !important;
   margin-bottom: 1.5rem;
